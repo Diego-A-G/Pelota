@@ -1,3 +1,5 @@
 # Pelota
-Nombre : Diego Alejandro Gonzalez Rojas
-codigo: 20171020111
+Nombres :
+Diego Alejandro Gonzalez Rojas(20171020111)
+
+Harrison Felipe Velandia Pinto (20171020079)
